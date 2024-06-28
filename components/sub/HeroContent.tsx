@@ -9,14 +9,12 @@ import {
   slideInFromTop,
 } from "@/utils/motion";
 import { SparklesIcon } from "@heroicons/react/24/solid";
-import c from "@/public/c.png"
+// import c from "@/public/c.png"
 
 const HeroContent = () => {
-
-  
-    // const handleClick = () => { 
-    //   alert('Button clicked!');
-    // };
+  // const handleClick = () => {
+  //   alert('Button clicked!');
+  // };
   return (
     <motion.div
       initial="hidden"
